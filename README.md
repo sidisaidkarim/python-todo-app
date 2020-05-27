@@ -1,1 +1,1 @@
-#simple python todos app using sqlite3 and tkinter
+# simple python todo app using sqlite3 and tkinter
